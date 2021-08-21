@@ -1,0 +1,13 @@
+/**
+* 인텔리제이에서 javadoc 사용법
+* shift 2번 눌러서 javadoc 검색
+* other command line arguments 항목에
+* -encoding UTF-8 -charset UTF-8 -docencoding UTF-8
+* 위와 같이 입력
+* 빌드가 잘 되더라도 위와같이 입력하지 않으면 
+* unmappable character (0xED) for encoding x-windows-949 에러 생길수 있음
+
+* 출처: https://wonzopein.com/69 [wonzopein.com]
+
+
+**/
